@@ -1,0 +1,22 @@
+{
+  "name": "mocha-pride",
+  "version": "0.0.1",
+  "description": "Get rainbow colors for mocha output!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:blainesch/mocha-pride.git"
+  },
+  "keywords": [
+    "rainbow",
+    "pride",
+    "mocha",
+    "spec"
+  ],
+  "author": "BlaineSch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blainesch/mocha-pride/issues"
+  },
+  "homepage": "https://github.com/blainesch/mocha-pride"
+}
